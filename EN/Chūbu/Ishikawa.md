@@ -1,0 +1,6 @@
+# Kanazawa
+## 301
+![301](https://local.pokemon.jp/img/p/manhole/c940415d26bf0831bbc369b7616083e1_l.png "301")
+### Pokémon Featured: Milotic
+### Coordinates: 36.559162, 136.661926
+---
