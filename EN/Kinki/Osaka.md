@@ -1,0 +1,26 @@
+# Higashiōsaka
+## 210
+![210](https://local.pokemon.jp/img/p/manhole/c5b049a0ebabbe4653c901d1d7d285a5_l.png "210")
+### Pokémon Featured: Yamper, Togedemaru
+### Coordinates: 34.669486, 135.630586
+---
+## 209
+![209](https://local.pokemon.jp/img/p/manhole/d39830afa4791086bcb803f16950c7a2_l.png "209")
+### Pokémon Featured: Raikou
+### Coordinates: 34.667678, 135.626309
+---
+## 208
+![208](https://local.pokemon.jp/img/p/manhole/82bcc43d44a0c0ce158820a770ea8abb_l.png "208")
+### Pokémon Featured: Elekid, Mawile
+### Coordinates: 34.680678, 135.650788
+---
+## 207
+![207](https://local.pokemon.jp/img/p/manhole/cd700d469950e929688fda7b763b46b9_l.png "207")
+### Pokémon Featured: Klink, Klang
+### Coordinates: 34.66771, 135.63989
+---
+## 206
+![206](https://local.pokemon.jp/img/p/manhole/8b79e350ab1d04a38f8dffc6baed16e5_l.png "206")
+### Pokémon Featured: Magnemite, Magneton
+### Coordinates: 34.679788, 135.601221
+---
