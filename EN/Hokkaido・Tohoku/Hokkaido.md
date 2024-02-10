@@ -1,20 +1,26 @@
-# Bihoro
-## 307
-![307](https://local.pokemon.jp/img/p/manhole/8ec01130d0c20e3a3957f36e64315883_l.png "307")
-### Pokémon Featured: Vulpix, Alolan Vulpix, Hoppip
-### Coordinates: 43.836455, 144.105878
----
 # Biei
 ## 324
 ![324](https://local.pokemon.jp/img/p/manhole/de1fad5b97b1302c551d9589cad60c01_l.png "324")
 ### Pokémon Featured: Alolan Vulpix, Hisuian Braviary
 ### Coordinates: 43.59198, 142.46372
 ---
+# Bihoro
+## 307
+![307](https://local.pokemon.jp/img/p/manhole/8ec01130d0c20e3a3957f36e64315883_l.png "307")
+### Pokémon Featured: Vulpix, Alolan Vulpix, Hoppip
+### Coordinates: 43.836455, 144.105878
+---
 # Sarafutsu
 ## 306
 ![306](https://local.pokemon.jp/img/p/manhole/e37f84100e487f76745f084394ae7d07_l.png "306")
 ### Pokémon Featured: Vulpix, Alolan Vulpix, Aipom
 ### Coordinates: 45.329186, 142.177267
+---
+# Kikonai
+## 305
+![305](https://local.pokemon.jp/img/p/manhole/9c50492829220e1aa07a60b268ddfa1e_l.png "305")
+### Pokémon Featured: Vulpix, Alolan Vulpix, Gossifleur
+### Coordinates: 41.678024, 140.43558
 ---
 # Utashinai
 ## 304
@@ -243,10 +249,4 @@
 ![59](https://local.pokemon.jp/img/p/manhole/9a5bcd8fc9acb25f4bd0f7ad5ed029ee_l.png "59")
 ### Pokémon Featured: Vulpix, Turtwig
 ### Coordinates: 43.585848, 141.423898
----
-# Kikonai
-## 305
-![305](https://local.pokemon.jp/img/p/manhole/9c50492829220e1aa07a60b268ddfa1e_l.png "305")
-### Pokémon Featured: Vulpix, Alolan Vulpix, Gossifleur
-### Coordinates: 41.678024, 140.43558
 ---

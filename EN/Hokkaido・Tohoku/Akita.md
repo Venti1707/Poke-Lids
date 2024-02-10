@@ -20,7 +20,7 @@
 ## 319
 ![319](https://local.pokemon.jp/img/p/manhole/77213c59ad91f8db66797f0066bc9b6e_l.png "319")
 ### Pokémon Featured: Fidough, Snorunt
-### Coordinates: Coordinates
+### Coordinates: 39.293561, 140.545941
 ---
 # Akita
 ## 318
