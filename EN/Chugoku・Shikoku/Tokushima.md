@@ -1,0 +1,16 @@
+# Naruto
+## 329
+![329](https://local.pokemon.jp/img/p/manhole/b7feef9605334785b629220d93968bd0_l.png "329")
+### Pokémon Featured: Poliwag, Poliwhirl, Diglett
+### Coordinates: 34.168084, 134.616371
+---
+## 328
+![328](https://local.pokemon.jp/img/p/manhole/ec4704ac964ad623fcdc8e707c4cab98_l.png "328")
+### Pokémon Featured: Seadra, Kingdra
+### Coordinates: 34.181955, 134.601709
+---
+## 327
+![327](https://local.pokemon.jp/img/p/manhole/db86984d919f6b77c13d3595895d4033_l.png "327")
+### Pokémon Featured: Suicune
+### Coordinates: 34.224106, 134.636196
+---
